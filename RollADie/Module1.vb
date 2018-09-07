@@ -40,6 +40,7 @@
             End If
         Loop
         Return False
+        'Test comment
     End Function
 
 End Module
